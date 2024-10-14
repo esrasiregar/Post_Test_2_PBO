@@ -1,0 +1,7 @@
+com\mycompany\sistembank\SistemBank.class
+sistembank\nasabah\Nasabah.class
+sistembank\rekening\Giro.class
+sistembank\rekening\Tabungan.class
+sistembank\rekening\Rekening.class
+sistembank\layanan\Layanan.class
+sistembank\layanan\NasabahCRUD.class
